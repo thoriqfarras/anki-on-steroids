@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+span {
+  display: flex;
+  align-items: center;
+}
+
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;
