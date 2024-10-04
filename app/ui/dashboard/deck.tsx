@@ -1,7 +1,5 @@
 import { TrashIcon } from '@heroicons/react/24/outline';
 
-TrashIcon;
-
 export default function Deck({
   title,
   flashcardNum,
